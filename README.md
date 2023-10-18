@@ -2,7 +2,7 @@
 
 Marketing Demo 
 
-This repository contains the Snowflake based LookML, for both the model and dashboards, for demonstrating Looker’s ability to provide value within the digital marketing landscape.
+This repository contains the Google Bigquery based LookML, for both the model and dashboards, for demonstrating Looker’s ability to provide value within the digital marketing landscape.
 
 How to Use
 If you are a Looker partner, please reach out to your analyst for access to dummy data. If you are an internal Looker user, please submit a helpdesk ticket to get credentials to the demo database.
