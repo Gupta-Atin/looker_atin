@@ -8,7 +8,7 @@ How to Use
 If you are a Looker partner, please reach out to your analyst for access to dummy data. If you are an internal Looker user, please submit a helpdesk ticket to get credentials to the demo database.
 
 Standard Users
-Option 1) Cloning from this repository: Do this if you want to stay up-to-date on changes to the model and do not plan on customizing for your own needs. See steps [here(https://docs.looker.com/data-modeling/getting-started/create-projects#clone_repo)]
+Option 1) Cloning from this repository: Do this if you want to stay up-to-date on changes to the model and do not plan on customizing for your own needs. See steps here(https://docs.looker.com/data-modeling/getting-started/create-projects#clone_repo)
 
 Advanced Users
 Option 2) Project import (preferred): Do this if you want to extend the model and make changes within your Looker instance. Existing LookML will still be available to view. Follow these steps here.
