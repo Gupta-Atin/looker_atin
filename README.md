@@ -1,3 +1,4 @@
+<img width="1213" alt="cp" src="https://github.com/Gupta-Atin/looker_atin/assets/148295377/795a30a7-9df0-424a-8a7e-5de3b8ef0c88">
 Marketing Demo 
 
 This repository contains the Snowflake based LookML, for both the model and dashboards, for demonstrating Looker’s ability to provide value within the digital marketing landscape.
@@ -21,4 +22,5 @@ The LookML model is divided into a few folders:
 Dashboards:
 
 306 Marketing Overview:
+
 
