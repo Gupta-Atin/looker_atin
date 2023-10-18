@@ -11,7 +11,7 @@ Standard Users
 Option 1) Cloning from this repository: Do this if you want to stay up-to-date on changes to the model and do not plan on customizing for your own needs. See steps [here](https://docs.looker.com/data-modeling/getting-started/create-projects#clone_repo)
 
 Advanced Users
-Option 2) Project import (preferred): Do this if you want to extend the model and make changes within your Looker instance. Existing LookML will still be available to view. Follow these steps [here](https://docs.looker.com/data-modeling/learning-lookml/importing-projects)
+Option 2) Project import (preferred): Do this if you want to extend the model and make changes within your Looker instance. Existing LookML will still be available to view. Follow these steps [here](https://docs.looker.com/data-modeling/learning-lookml/importing-projects) 
 
 Description
 This demo uses dummy data from Google Adwords, as well as Ecommerce clothing store order data, to show things like digital marketing attribution and campaign ROI.
