@@ -20,11 +20,11 @@ The LookML model is divided into a few folders:
 
 Dashboards:
 
-306 Marketing Overview:
+Marketing Overview:
 <img width="1338" alt="mrkt_1" src="https://github.com/Gupta-Atin/looker_atin/assets/148295377/4ff01671-3969-4eb6-a1db-956341418c6c">
 <img width="1214" alt="markt_2" src="https://github.com/Gupta-Atin/looker_atin/assets/148295377/855fb2d3-a5e8-4c35-8c56-ca578ed427f1">
 
-Campaign Performance Lookup:
+Campaign Performance :
 
 <img width="1213" alt="cp" src="https://github.com/Gupta-Atin/looker_atin/assets/148295377/795a30a7-9df0-424a-8a7e-5de3b8ef0c88">
 
