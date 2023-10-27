@@ -1,6 +1,6 @@
 
 
-Marketing Demo 
+Marketing Demo (By Atin Gupta with Public Data)
 
 This repository contains the Google Bigquery based LookML, for both the model and dashboards, for demonstrating Looker’s ability to provide value within the digital marketing landscape.
 
